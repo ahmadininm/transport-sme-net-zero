@@ -34,7 +34,7 @@ The script creates `outputs/` and `figures/` folders. A successful run ends with
 
 Suggested repository citation:
 
-> Ahmadinia, M., Spooner, S., Khasraw, D., Long, T. and Kauffman, M. (2026). *Net-zero implementation among transport-sector SMEs in England: data, coding and reproducibility materials*. GitHub repository. [Repository URL].
+> Ahmadinia, M., Spooner, S., Khasraw, D., Long, T. and Kauffman, M. (2026). *Net-zero implementation among transport-sector SMEs in England: data, coding and reproducibility materials*. GitHub repository.
 
 ## Licence
 
