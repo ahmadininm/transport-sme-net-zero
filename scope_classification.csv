@@ -1,0 +1,45 @@
+respondent_id,scope_category,mode_category,basis
+1,Direct transport,Road,Sector answer names one transport mode
+2,Direct transport,More than one mode,Sector answer names more than one transport mode
+3,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+4,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+5,Direct transport,More than one mode,Sector answer names more than one transport mode
+6,Direct transport,More than one mode,Sector answer names more than one transport mode
+7,Direct transport,Maritime,Sector answer names one transport mode
+8,Direct transport,Road,Sector answer names one transport mode
+9,Direct transport,Road,Sector answer names one transport mode
+10,No transport link evident,,No mode named; no transport application identifiable from the responses
+11,Direct transport,Road,Sector answer names one transport mode
+12,Direct transport,Road,Sector answer names one transport mode
+13,Direct transport,More than one mode,Sector answer names more than one transport mode
+14,Direct transport,Road,Sector answer names one transport mode
+15,Direct transport,Air,Sector answer names one transport mode
+16,Direct transport,More than one mode,Sector answer names more than one transport mode
+17,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+18,Direct transport,Road,Sector answer names one transport mode
+19,Direct transport,Road,Sector answer names one transport mode
+20,Direct transport,Air,Sector answer names one transport mode
+21,Direct transport,Road,Sector answer names one transport mode
+22,Direct transport,Rail,Sector answer names one transport mode
+23,Direct transport,Road,Sector answer describes a road transport service (driver training); no mode option selected
+24,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+25,Direct transport,More than one mode,Sector answer names more than one transport mode
+26,Direct transport,Road,Sector answer names one transport mode
+27,Direct transport,More than one mode,Sector answer names more than one transport mode
+28,No transport link evident,,No mode named; no transport application identifiable from the responses
+29,Direct transport,Road,Sector answer names one transport mode
+30,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+31,Direct transport,Road,Sector answer names one transport mode
+32,No transport link evident,,No mode named; no transport application identifiable from the responses
+33,Direct transport,More than one mode,Sector answer names more than one transport mode
+34,Direct transport,Rail,Sector answer names one transport mode
+35,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+36,Direct transport,More than one mode,Sector answer names more than one transport mode
+37,Direct transport,Rail,Sector answer names one transport mode
+38,Direct transport,Road,Sector answer names one transport mode
+39,Direct transport,Rail,Sector answer names one transport mode
+40,Direct transport,Road,Sector answer names one transport mode
+41,No transport link evident,,No mode named; no transport application identifiable from the responses
+42,Direct transport,Road,Sector answer names one transport mode
+43,Transport-adjacent supply and technology,,"No mode named; describes energy, fuel, battery, recycling or component technology with transport applications"
+44,Direct transport,Rail,Sector answer names one transport mode
