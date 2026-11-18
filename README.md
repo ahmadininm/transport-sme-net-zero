@@ -2,7 +2,7 @@
 
 This repository contains the survey data, qualitative coding and Python analysis supporting the research paper:
 
-**Ahmadinia, M., Spooner, S., Khasraw, D., Long, T. and Kauffman, M.** *Net-zero implementation among transport-sector SMEs in England: barriers, enabling conditions and support needs from a mixed-methods survey.* Publication details and DOI will be added when available.
+**Ahmadinia, M., Spooner, S., Khasraw, D., Long, T. and Kauffman, M.** *Net Zero, Not Zero Obstacles: Understanding Decarbonisation Challenges Among Transport SMEs in England* Publication details and DOI will be added when available.
 
 The study analyses responses from **44 SMEs in England** using 27 five-point questionnaire statements and five open-ended questions.
 
